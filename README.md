@@ -142,4 +142,4 @@ Feel free to open issues or pull requests for improvements, such as adding hyper
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, contact [your-email@example.com] or open an issue on GitHub.
+For questions, contact [wenzhishi@sina.com] or open an issue on GitHub.
